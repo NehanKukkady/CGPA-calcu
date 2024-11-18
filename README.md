@@ -1,4 +1,3 @@
-# CGPA-calcu
 # CGPA Calculator (C++)
 
 This project is a simple C++ program designed to calculate the Cumulative Grade Point Average (CGPA) for a student based on their grades in various subjects. The program accepts the number of subjects, their credit hours, and the grade obtained in each subject. It then computes the weighted average to determine the CGPA.
